@@ -1,5 +1,3 @@
-# action-repo
-
 # GitHub Action Repository – `action-repo`
 
 This repository is used to **trigger GitHub webhook events** (Push, Pull Request) that are handled by a separate Flask app in webhook-repo.
